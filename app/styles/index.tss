@@ -1,0 +1,19 @@
+"Window": {
+	backgroundColor: "white",
+	fullscreen: false,
+    statusBarStyle:Titanium.UI.iPhone.StatusBar.DEFAULT
+},
+"#container": {
+   
+},
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+"#label": {
+	font: {
+		fontSize: 12
+	}
+}

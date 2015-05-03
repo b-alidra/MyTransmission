@@ -1,0 +1,59 @@
+"#row": {
+	backgroundColor: Alloy.Globals.theme.movies.rowBackgroundColor,
+	selectedBackgroundColor: Alloy.Globals.theme.movies.separatorColor,//Alloy.Globals.theme.menu.selectedRowBackgroundColor,
+	height: "195dp",
+	borderWidth: 1,
+	borderColor: Alloy.Globals.theme.movies.separatorColor,
+},
+"#infos_block": {
+	backgroundColor: Alloy.Globals.theme.movies.contentBackgroundColor,
+	top: "5dp",
+	left: "5dp",
+	right: "5dp",
+	bottom: "5dp",
+	viewShadowColor: Alloy.Globals.theme.movies.infos.shadowColor,
+    viewShadowOffset:{x:"0",y:"0"},
+    viewShadowRadius: Alloy.Globals.theme.movies.infos.shadowRadius
+},
+	
+"#title": {
+	top: "5dp",
+	left: "5dp",
+	height: "25dp",
+	backgroundColor: Alloy.Globals.theme.movies.titleBackgroundColor,
+	color: Alloy.Globals.theme.movies.titleColor,
+	opacity: Alloy.Globals.theme.movies.titleOpacity,
+	font: {
+		fontSize: "12",
+		fontFamily: "OpenSans-Bold"
+	},
+	textAlign: Titanium.UI.TEXT_ALIGNMENT_LEFT,
+	verticalAlign: Titanium.UI.TEXT_VERTICAL_ALIGNMENT_CENTER
+},
+"#overview": {
+	top: "5dp",
+	left: "5dp",
+	bottom: 0,
+	backgroundColor: Alloy.Globals.theme.movies.titleBackgroundColor,
+	color: Alloy.Globals.theme.movies.titleColor,
+	opacity: Alloy.Globals.theme.movies.titleOpacity,
+	font: {
+		fontSize: "9dp",
+		fontFamily: "OpenSans"
+	},
+	textAlign: Titanium.UI.TEXT_ALIGNMENT_LEFT,
+	verticalAlign: Titanium.UI.TEXT_VERTICAL_ALIGNMENT_TOP
+},
+"#banner": {
+/*	opacity: 0,
+	visible: false,*/
+	top: "5dp",
+	left: "5dp",
+	bottom: "5dp",
+	width: "125dp",
+	height: "190dp",
+	preventDefaultImage: true,
+	viewShadowColor: Alloy.Globals.theme.movies.banner.shadowColor,
+    viewShadowOffset:{x:"0",y:"0"},
+    viewShadowRadius: Alloy.Globals.theme.movies.banner.shadowRadius
+}

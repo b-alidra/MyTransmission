@@ -1,0 +1,69 @@
+".hgroup": {
+	layout: "horizontal",
+	height: Ti.UI.SIZE
+},
+".vgroup": {
+	layout: "vertical",
+	height: Ti.UI.SIZE
+},
+"#row": {
+	backgroundColor: Alloy.Globals.theme.list.rowBackgroundColor,
+	selectedBackgroundColor: Alloy.Globals.theme.list.separatorColor,//Alloy.Globals.theme.menu.selectedRowBackgroundColor,
+	height: "55dp",
+	borderWidth: 1,
+	borderColor: Alloy.Globals.theme.list.separatorColor,
+},
+"#icon": {
+	left: "15dp",
+	color:  Alloy.Globals.theme.list.iconColor,
+	font: {
+		fontSize: "16"		
+	}
+},
+"#torrent_title": {
+	left: "10dp",
+	right: "10dp",
+	color: Alloy.Globals.theme.list.titleColor,
+	font: {
+		fontSize: "12",
+		fontFamily: "OpenSans"
+	},
+	textAlign: Titanium.UI.TEXT_ALIGNMENT_LEFT,
+	height: "15dp"
+},
+"#torrent_progress_wrapper": {
+	left: "10dp",
+	right: "10dp",
+	height: "10dp",
+	layout: "absolute",
+	backgroundColor: Alloy.Globals.theme.list.progress.red,
+	borderWidth: 1,
+	borderColor: Alloy.Globals.theme.list.separatorColor
+},
+"#torrent_progress": {
+	top: 0,
+	left: 0,
+	bottom: 0
+},
+"#progress_label": {
+	color: "#FFFFFF",
+	backgroundColor: Alloy.Globals.theme.list.progress.blue,
+	width: "100%",
+	font: {
+		fontSize: "8",
+		fontFamily: "OpenSans-SemiBold"
+	},
+	textAlign: Titanium.UI.TEXT_ALIGNMENT_CENTER,
+	borderWidth: 1,
+	borderColor: "#68B464"
+},
+"#torrent_status": {
+	left: "10dp",
+	right: "10dp",
+	color: Alloy.Globals.theme.list.infoColor,
+	font: {
+		fontSize: "8",
+		fontFamily: "OpenSans"
+	},
+	textAlign: Titanium.UI.TEXT_ALIGNMENT_LEFT
+}

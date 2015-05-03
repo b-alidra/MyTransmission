@@ -1,0 +1,19 @@
+<Alloy>
+	<TableViewRow id="row" class="row">
+		<View class="hgroup">
+			<Label class="fa-icon" id="icon"/>
+			<View class="vgroup">
+				<Label id="torrent_title"/>
+				<View id="torrent_progress_wrapper">
+					<View id="torrent_progress">
+						<Label id="progress_label"></Label>	
+					</View>
+				</View>
+				<View class="hgroup">
+					<Label id="torrent_status"/>
+				</View>
+			</View>
+		</View>
+		<Widget id="fa" src="com.mattmcfarland.fontawesome" />
+	</TableViewRow>
+</Alloy>

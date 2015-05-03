@@ -1,0 +1,79 @@
+"Window": { backgroundColor: Alloy.Globals.theme.window.backgroundColor },
+".hgroup": {
+	layout: "horizontal",
+	height: Ti.UI.SIZE
+},
+".vgroup": {
+	layout: "vertical",
+	height: Ti.UI.SIZE
+},
+
+".fourth": { width: "25%" },
+".third": { width: "33.33%" },
+".half": { width: "49.9%" },
+".thirds": { width: "66.66%" },
+".fourths": { width: "75%" },
+".big": { font: { fontSize: "18dp" } },
+".small": { font: { fontSize: "8dp" } },
+
+".left": { textAlign: Titanium.UI.TEXT_ALIGNMENT_LEFT },
+".right": { textAlign: Titanium.UI.TEXT_ALIGNMENT_RIGHT },
+
+".green": { color: Alloy.Globals.theme.list.progress.green },
+".red": { color: Alloy.Globals.theme.list.progress.red },
+".blue": { color: Alloy.Globals.theme.list.progress.blue },
+".darkblue": { color: Alloy.Globals.theme.list.progress.darkblue },
+
+".container": { top: "20dp" },
+"#searchButton": { visible: false },
+"Label": { font: { fontFamily: "OpenSans" }	},
+"TextField": { font: { fontFamily: "OpenSans" }	},
+".toolbar": {
+	backgroundColor: Alloy.Globals.theme.toolbar.backgroundColor,
+	top: 0,
+	left: 0,
+	height : "48dp",
+	layout: "absolute",
+	viewShadowColor: Alloy.Globals.theme.toolbar.backgroundColor,
+    viewShadowOffset:{x:"0",y:"0"},
+    viewShadowRadius: Alloy.Globals.theme.toolbar.shadowRadius
+},
+".toolbarButton": {
+	color: Alloy.Globals.theme.toolbar.buttonsColor,
+	height: Ti.UI.FILL,
+	font: { fontSize: 32 }
+},
+"#toolbar_title_holder": {
+	center: "50%",
+	height : "48dp"
+},
+"#toolbar_title": {
+	color: Alloy.Globals.theme.toolbar.titleColor,
+	text: L('settings_description'),
+	textAlign: Titanium.UI.TEXT_ALIGNMENT_CENTER,
+	font: {
+		fontSize: "14",
+		fontFamily: "OpenSans"
+	}
+}
+".toolbar_button_holder": { width: "48dp" },
+
+"#toolbar_stop_button_holder": { left: 0 },
+"#toolbar_stop": { textAlign: Titanium.UI.TEXT_ALIGNMENT_LEFT, font: { fontSize: 26 } },
+"#toolbar_start_button_holder": { left: "48dp" },
+"#toolbar_start": { textAlign: Titanium.UI.TEXT_ALIGNMENT_LEFT, font: { fontSize: 26 } },
+
+"#toolbar_add_button_holder": { right: 0 },
+"#toolbar_add": { textAlign: Titanium.UI.TEXT_ALIGNMENT_RIGHT, font: { fontSize: 26 } },
+
+"#toolbar_save_button_holder": { right: 0 },
+"#toolbar_save": { textAlign: Titanium.UI.TEXT_ALIGNMENT_RIGHT, font: { fontSize: 26 } },
+
+".footer": {
+	backgroundColor: Alloy.Globals.theme.footer.backgroundColor,
+	bottom: 0,
+	left: 0,
+	height : "5dp",
+	layout: "absolute",
+	zIndex: 100
+}

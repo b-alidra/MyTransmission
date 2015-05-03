@@ -1,0 +1,16 @@
+<Alloy>
+	<View>
+		<View class="toolbar">
+			<View id="toolbar_title_holder">
+				<Label id="toolbar_title" />
+			</View>
+		</View>
+		<View id="content">
+			<TextField id="term"/>
+		</View>
+		<Button id="save_button">
+			<Label id="save_button_icon" class="fa-icon" icon="fa-check"/>
+		</Button>
+		<Widget id="fa" src="com.mattmcfarland.fontawesome" />
+	</View>
+</Alloy>

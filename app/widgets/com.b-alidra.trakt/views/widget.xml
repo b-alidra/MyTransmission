@@ -1,0 +1,55 @@
+<Alloy>
+	<View>
+		<View class="toolbar hgroup">
+			<View id="toolbar_stop_button_holder" class="toolbar_button_holder">
+				<Label id="toolbar_stop" class="toolbarButton fa-icon" icon="fa-pause"/>
+			</View>
+			<View id="toolbar_start_button_holder" class="toolbar_button_holder">
+				<Label id="toolbar_start" class="toolbarButton fa-icon" icon="fa-play"/>
+			</View>
+		</View>
+		<View id="content">
+			<TableView id="tableList">
+				<RefreshControl id="ptr" onRefreshstart="refresh"/>
+			</TableView>
+		</View>
+		<View id="footer_bar" class="hgroup">
+			<View class="third vgroup">
+				<View class="hgroup">
+					<Label class="big blue" id="nb_torrents" />
+					<Label class="small" id="label_torrents" />
+				</View>
+				<View class="hgroup">
+					<Label class="big green" id="nb_active" />
+					<Label class="small" id="label_active" />
+				</View>	
+			</View>
+			<View class="third vgroup">
+				<View class="hgroup">
+					<Label class="big green fa-icon" icon="fa-long-arrow-down" />
+					<Label class="big green right" id="speed_download" />
+				</View>
+			</View>
+			<View class="third vgroup">
+				<View class="hgroup">
+					<Label class="big darkblue fa-icon" icon="fa-long-arrow-up" />
+					<Label class="big darkblue right" id="speed_upload" />
+				</View>
+			</View>
+	<!--		<View class="third vgroup">
+				<View class="hgroup	half">
+					<Label class="big darkblue fa-icon" icon="fa-long-arrow-up" />
+					<Label class="small darkblue left" id="size_uploaded" />
+				</View>
+				<View class="hgroup	half">
+					<Label class="big green fa-icon" icon="fa-long-arrow-down" />
+					<Label class="small green left" id="size_downloaded" />
+				</View>
+		</View>-->
+		</View>
+		<Button id="add_button">
+			<Label id="add_button_icon" class="fa-icon" icon="fa-plus"/>
+		</Button>
+		<Widget id="fa" src="com.mattmcfarland.fontawesome" debug="true"/>
+	</View>
+</Alloy>

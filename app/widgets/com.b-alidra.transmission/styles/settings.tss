@@ -1,0 +1,70 @@
+"#content": {
+	top: "48dp",
+	bottom: "5dp",
+	backgroundColor : Alloy.Globals.theme.list.backgroundColor,
+	opacity: 0.95
+},
+"TableView": {
+	top: 0,
+	width: "100%",
+	left: 0,
+	backgroundColor : Alloy.Globals.theme.list.backgroundColor,
+	footerTitle: "",
+    separatorStyle : Titanium.UI.iPhone.TableViewSeparatorStyle.NONE
+},
+"TableViewRow" : {
+	height: '44dp',
+	allowsSelection: false,
+	backgroundColor: '#FFFFFF'
+},
+".label_holder" : {
+	width: '45%',
+	left: 0,
+	top: 0
+},
+".form_label" : {
+	left: '10dp',
+	right: '5dp',
+	height: Ti.UI.FILL,
+	font: {
+		fontSize: '18dp',
+		fontWeight: 'bold'
+	},
+	color: Alloy.Globals.theme.article.titleColor
+},
+"#name_label": { text: L('settings_name') },
+"#host_label": { text: L('settings_host') },
+"#port_label": { text: L('settings_port') },
+"#user_label": { text: L('settings_user') },
+"#pass_label": { text: L('settings_label') },
+
+"TextField" : {
+	height: Ti.UI.FILL,
+	right: 0,
+	width: '55%',
+	font: {
+		fontSize: '16dp',
+		fontWeight: 'bold'
+	},
+	color: Alloy.Globals.theme.article.infosColor,
+	textAlign: Titanium.UI.TEXT_ALIGNMENT_LEFT
+},
+"#save_button": {
+	width: "120dp",
+	height: "120dp",
+	center: {
+		x: "100%",
+		y: "100%"
+	},
+	backgroundColor: Alloy.Globals.theme.buttons.save.backgroundColor,
+	backgroundFocusedColor: Alloy.Globals.theme.buttons.save.backgroundFocusedColor,
+	borderRadius: 60
+},
+"#save_button_icon": {
+	color: Alloy.Globals.theme.buttons.save.color,
+	font: { fontSize: 36 },
+	center: {
+		x: "30%",
+		y: "30%"
+	}
+}

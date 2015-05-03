@@ -1,0 +1,12 @@
+[submodule "app/widgets/com.mcongrove.toast"]
+	path = app/widgets/com.mcongrove.toast
+	url = https://github.com/mcongrove/com.mcongrove.toast.git
+[submodule "app/widgets/com.mattmcfarland.fontawesome"]
+	path = app/widgets/com.mattmcfarland.fontawesome
+	url = https://github.com/MattMcFarland/com.mattmcfarland.fontawesome.git
+[submodule "app/widgets/ba.slideMenu"]
+	path = app/widgets/ba.slideMenu
+	url = https://github.com/b-alidra/AlloySliderMenu.git
+[submodule "app/widgets/nl.fokkezb.loading"]
+	path = app/widgets/nl.fokkezb.loading
+	url = https://github.com/FokkeZB/nl.fokkezb.loading.git

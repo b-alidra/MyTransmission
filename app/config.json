@@ -1,0 +1,18 @@
+{
+	"global": {}, 
+	"env:development": {}, 
+	"env:test": {}, 
+	"env:production": {}, 
+	"os:android": {},
+	"os:blackberry": {},
+	"os:ios": {},
+	"os:mobileweb": {},
+	"dependencies": {
+		"ds.slideMenu": "0.1",
+        "com.mattmcfarland.fontawesome": "1.4.1",
+        "com.mcongrove.toast": "1.1",
+        "nl.fokkezb.loading": "1.8.3",
+        "com.b-alidra.trakt": "1.0",
+        "com.b-alidra.transmission": "1.0"
+    }
+}
