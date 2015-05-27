@@ -1,7 +1,9 @@
 "Window": {
 	backgroundColor: "white",
-	fullscreen: false,
-    statusBarStyle:Titanium.UI.iPhone.StatusBar.DEFAULT
+	fullscreen: false
+},
+"Window[platform=ios]": {
+	statusBarStyle:Titanium.UI.iPhone.StatusBar.DEFAULT
 },
 "#container": {
    
