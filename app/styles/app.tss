@@ -7,6 +7,10 @@
 	layout: "vertical",
 	height: Ti.UI.SIZE
 },
+".abs": {
+	layout: "absolute",
+	height: Ti.UI.SIZE
+},
 
 ".fourth": { width: "25%" },
 ".third": { width: "33.33%" },
@@ -43,11 +47,11 @@
 	height: Ti.UI.FILL,
 	font: { fontSize: 32 }
 },
-"#toolbar_title_holder": {
+".toolbar_title_holder": {
 	center: "50%",
 	height : "48dp"
 },
-"#toolbar_title": {
+".toolbar_title": {
 	color: Alloy.Globals.theme.toolbar.titleColor,
 	text: L('settings_description'),
 	textAlign: Titanium.UI.TEXT_ALIGNMENT_CENTER,

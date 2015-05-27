@@ -59,10 +59,10 @@ exports.theme = {
     },
 	
 	movies: {
-		"backgroundColor": "#FFFFFF",
-        "rowBackgroundColor": "#FFFFFF",
-        "selectedRowBackgroundColor": "#FFFFFF",
-        "separatorColor": "#FFFFFF",
+		"backgroundColor": "#000000",
+        "rowBackgroundColor": "#000000",
+        "selectedRowBackgroundColor": "#000000",
+        "separatorColor": "#000000",
         "contentBackgroundColor": "#000000",
         "titleColor": "#FFFFFF",
         "titleBackgroundColor": "#000000",
@@ -71,11 +71,11 @@ exports.theme = {
         "searchTextColor": "#FFFFFF",
         "banner": {
         	"shadowColor": "#000000",
-        	"shadowRadius": 1.5
+        	"shadowRadius": 0.5
         },
         "infos": {
         	"shadowColor": "#000000",
-        	"shadowRadius": 1.5
+        	"shadowRadius": 0.5
         }
 	},
 	
