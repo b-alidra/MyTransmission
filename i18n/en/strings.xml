@@ -16,6 +16,10 @@
     <string name="settings_testing">Checking settings</string>
     <string name="settings_bad">!! Bad settings !!</string>
     <string name="settings_saved">Settings saved</string>
+    <string name="settings_connexions">Connexions</string>
+    <string name="settings_t411">T411</string>
+    <string name="connexions_description">Your torrent client parameters</string>
+    <string name="t411_description">Your T411 account informations</string>
     <string name="list_loading">Loading ...</string>
     <string name="list_done">Done</string>
     <string name="list_downloading">Downloading</string>
@@ -47,8 +51,14 @@
     <string name="search_title">Search for a torrent</string>
     <string name="your_search">Your search</string>
     <string name="popular_movies">Popular movies</string>
-    <string name="popular_shows">Popular shows</string>
     <string name="trending_movies">Trending movies</string>
+    <string name="now_movies">Now playing</string>
+    <string name="upcoming_movies">Upcoming</string>
+    <string name="popular_shows">Popular shows</string>
     <string name="trending_shows">Trending shows</string>
     <string name="load_more">Show more</string>
+    <string name="download">Download</string>
+    <string name="votes">Votes</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="torrents">Torrents</string>
 </resources>

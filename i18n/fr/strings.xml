@@ -15,6 +15,10 @@
     <string name="settings_label">Mot de passe</string>
     <string name="settings_testing">Vérification des paramètres</string>
     <string name="settings_saved">Paramètres sauvegardés</string>
+    <string name="settings_connexions">Connexions</string>
+    <string name="settings_t411">T411</string>
+    <string name="connexions_description">Paramètres de votre logiciel de téléchargement</string>
+    <string name="t411_description">Informations de votre compte T411</string>
     <string name="cant_connect">!! Connexion impossible !!</string>
     <string name="list_loading">Chargement en cours ...</string>
     <string name="list_done">Terminés</string>
@@ -46,8 +50,14 @@
     <string name="search_title">Rechercher un torrent</string>
     <string name="your_search">Votre recherche</string>
     <string name="popular_movies">Films populaires</string>
-    <string name="popular_shows">Séries populaires</string>
     <string name="trending_movies">Films du moment</string>
+    <string name="now_movies">Films du moment</string>
+    <string name="upcoming_movies">À venir</string>
+    <string name="popular_shows">Séries populaires</string>
     <string name="trending_shows">Séries du moment</string>
     <string name="load_more">Plus de résultats</string>
+    <string name="download">Télécharger</string>
+    <string name="votes">Votes</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="torrents">Torrents</string>
 </resources>
