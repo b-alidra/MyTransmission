@@ -68,7 +68,8 @@ exports.theme = {
         "titleBackgroundColor": "#000000",
         "titleOpacity": 1,
         "refreshColor": "#FFFFFF",
-        "searchTextColor": "#FFFFFF",
+        "searchTextColor": "#000000",
+        "searchBackgroundColor": "#FFFFFF",
         "banner": {
         	"shadowColor": "#000000",
         	"shadowRadius": 0.5
