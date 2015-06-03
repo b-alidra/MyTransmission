@@ -10,5 +10,3 @@
 //
 // Alloy.Globals.someGlobalFunction = function(){};
 Alloy.Globals.loading = Alloy.createWidget("nl.fokkezb.loading");
-/*Alloy.Globals.IOS_WIN_HEIGHT = (Ti.Platform.DisplayCaps.getDpi() === 320 || Ti.Platform.DisplayCaps.getDpi() === 260) ? Ti.Platform.DisplayCaps.getPlatformHeight() - 40 : Ti.Platform.DisplayCaps.getPlatformHeight() - 20;
-Alloy.Globals.IOS_WIN_OFFSET = (Ti.Platform.DisplayCaps.getDpi() === 320 || Ti.Platform.DisplayCaps.getDpi() === 260) ? 40 : 20;*/
