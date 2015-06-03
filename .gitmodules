@@ -28,3 +28,6 @@
 [submodule "app/widgets/com.b-alidra.thetvdb"]
 	path = app/widgets/com.b-alidra.thetvdb
 	url = root@server:/home/repository/titanium-thetvdb.git
+[submodule "app/widgets/nl.fokkezb.infiniteScroll"]
+	path = app/widgets/nl.fokkezb.infiniteScroll
+	url = https://github.com/FokkeZB/nl.fokkezb.infiniteScroll.git

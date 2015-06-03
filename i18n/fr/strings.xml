@@ -61,4 +61,6 @@
     <string name="synopsis">Synopsis</string>
     <string name="torrents">Torrents</string>
     <string name="added_on">Ajouté le</string>
+    <string name="trailer">Bande annonce</string>
+    <string name="casting">Casting</string>
 </resources>

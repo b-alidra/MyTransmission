@@ -62,4 +62,6 @@
     <string name="synopsis">Synopsis</string>
     <string name="torrents">Torrents</string>
     <string name="added_on">Added on</string>
+    <string name="trailer">Trailer</string>
+    <string name="casting">Casting</string>
 </resources>
