@@ -6,6 +6,7 @@ exports.theme = {
         "backgroundColor": "#FFFFFF",
         "titleColor": "#000000",
         "menuButtonColor": "#000000",
+        "menuButtonFocusedBackgroundColor": "#7ACDE7",
         "backButtonColor": "#000000",
         "toolsButtonsColor": "#000000",
 		"shadowRadius": 2.5
