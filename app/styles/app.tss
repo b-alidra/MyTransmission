@@ -1,4 +1,8 @@
-"Window": { backgroundColor: Alloy.Globals.theme.window.backgroundColor },
+"Window": {
+	backgroundColor: Alloy.Globals.theme.window.backgroundColor,
+	navBarHidden: true,
+	top: Alloy.Globals.WIN_TOP
+},
 ".hgroup": {
 	layout: "horizontal",
 	height: Ti.UI.SIZE

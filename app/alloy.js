@@ -10,3 +10,4 @@
 //
 // Alloy.Globals.someGlobalFunction = function(){};
 Alloy.Globals.loading = Alloy.createWidget("nl.fokkezb.loading");
+Alloy.Globals.WIN_TOP_OFFSET = OS_IOS ? "20dp" : 0;
