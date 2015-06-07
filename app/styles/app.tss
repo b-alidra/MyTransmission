@@ -15,7 +15,18 @@
 	layout: "absolute",
 	height: Ti.UI.SIZE
 },
-
+".vsep": {
+	width: "1dp",
+	height: "100%",
+	backgroundColor: "#555555"
+},
+".hsep": {
+	top: "2dp",
+	bottom: "2dp",
+	width: "80%",
+	height: "1dp",
+	backgroundColor: "#555555"
+},
 ".fourth": { width: "25%" },
 ".third": { width: "33.33%" },
 ".half": { width: "49.9%" },
@@ -60,8 +71,8 @@
 	text: L('settings_description'),
 	textAlign: Titanium.UI.TEXT_ALIGNMENT_CENTER,
 	font: {
-		fontSize: "14",
-		fontFamily: "OpenSans"
+		fontSize: "14dp",
+		fontFamily: "OpenSans-Bold"
 	}
 }
 ".toolbar_button_holder": { width: "48dp" },

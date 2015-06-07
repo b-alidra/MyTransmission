@@ -13,7 +13,7 @@ exports.theme = {
     },
 	
 	toolbar: {
-		"backgroundColor": "#2C2C2C",
+		"backgroundColor": "#000000",
 		"titleColor": "#FFFFFF",
 		"buttonsColor": "#FFFFFF",
 		"shadowRadius": 2.5
@@ -39,10 +39,10 @@ exports.theme = {
         "backgroundColor": "#FFFFFF",
         "rowBackgroundColor": "#FFFFFF",
         "selectedRowBackgroundColor": "#F3F3F3",
-        "separatorColor": "#666",
-        "titleColor": "#131313",
-        "iconColor": "#131313",
-        "infosColor": "#999999",
+        "separatorColor": "#999999",
+        "titleColor": "#FFFFFF",
+        "iconColor": "#FFFFFF",
+        "infosColor": "#FAFAFA",
         "arrowColor": "#000000",
         "refreshColor": "#FFFFFF",
         "statusIcons": {
@@ -79,6 +79,18 @@ exports.theme = {
         	"shadowColor": "#000000",
         	"shadowRadius": 0.5
         }
+	},
+	
+	torrents: {
+		"backgroundColor": "transparent",
+        "rowBackgroundColor": "transparent",
+        "selectedRowBackgroundColor": "#F3F3F3",
+		"separatorColor": "#999999",
+		"titleColor": "#FFFFFF",
+		"iconColor": "#FFFFFF",
+        "infosColor": "#FAFAFA",
+		"seedersColor": "#138F16",
+		"leechersColor": "#D23019"
 	},
 	
 	buttons: {
