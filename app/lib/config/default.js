@@ -5,7 +5,6 @@ exports.config = {
 			"icon" : "fa-film",
 			"target" : {
 				"widget" : "com.b-alidra.themoviedb",
-				"view" : "movies",
 				"params" : {}
 			}
 		}, {
