@@ -12,7 +12,7 @@
     <string name="settings_host">Hôte</string>
     <string name="settings_port">Port</string>
     <string name="settings_user">Utilisateur</string>
-    <string name="settings_label">Mot de passe</string>
+    <string name="settings_password">Mot de passe</string>
     <string name="settings_testing">Vérification des paramètres</string>
     <string name="settings_saved">Paramètres sauvegardés</string>
     <string name="settings_connexions">Connexions</string>
