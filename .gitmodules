@@ -15,16 +15,16 @@
 	url = root@server:/home/repository/themoviedb-javascript-library.git
 [submodule "app/lib/t411"]
 	path = app/lib/t411
-	url = root@server:/home/repository/titanium-t411.git
+	url = https://github.com/b-alidra/titanium-t411.git
 [submodule "app/widgets/com.b-alidra.trakt"]
 	path = app/widgets/com.b-alidra.trakt
 	url = root@server:/home/repository/titanium-trakt.git
 [submodule "app/widgets/com.b-alidra.transmission"]
 	path = app/widgets/com.b-alidra.transmission
-	url = root@server:/home/repository/titanium-transmission.git
+	url = https://github.com/b-alidra/titanium-transmission.git
 [submodule "app/widgets/com.b-alidra.themoviedb"]
 	path = app/widgets/com.b-alidra.themoviedb
-	url = root@server:/home/repository/titanium-themoviedb.git
+	url = https://github.com/b-alidra/titanium-themoviedb.git
 [submodule "app/widgets/com.b-alidra.thetvdb"]
 	path = app/widgets/com.b-alidra.thetvdb
 	url = root@server:/home/repository/titanium-thetvdb.git
