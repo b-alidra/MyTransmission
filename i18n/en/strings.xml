@@ -56,6 +56,8 @@
     <string name="upcoming_movies">Upcoming</string>
     <string name="popular_shows">Popular shows</string>
     <string name="trending_shows">Trending shows</string>
+    <string name="now_shows">On Air</string>
+    <string name="upcoming_shows">Up Coming</string>
     <string name="load_more">Show more</string>
     <string name="download">Download</string>
     <string name="votes">Votes</string>
@@ -64,4 +66,9 @@
     <string name="added_on">Added on</string>
     <string name="trailer">Trailer</string>
     <string name="casting">Casting</string>
+    <string name="season">Season</string>
+    <string name="seasons">Seasons</string>
+    <string name="episode">Episode</string>
+    <string name="episodes">Episodes</string>
+    <string name="since">Since</string>
 </resources>

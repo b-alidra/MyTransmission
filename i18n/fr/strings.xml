@@ -55,6 +55,8 @@
     <string name="upcoming_movies">À venir</string>
     <string name="popular_shows">Séries populaires</string>
     <string name="trending_shows">Séries du moment</string>
+    <string name="now_shows">Séries du moment</string>
+    <string name="upcoming_shows">À venir</string>
     <string name="load_more">Plus de résultats</string>
     <string name="download">Télécharger</string>
     <string name="votes">Votes</string>
@@ -63,4 +65,9 @@
     <string name="added_on">Ajouté le</string>
     <string name="trailer">Bande annonce</string>
     <string name="casting">Casting</string>
+    <string name="season">Saison</string>
+    <string name="seasons">Saisons</string>
+    <string name="episode">Épisode</string>
+    <string name="episodes">Épisodes</string>
+    <string name="since">Depuis le </string>
 </resources>
