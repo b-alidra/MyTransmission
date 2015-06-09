@@ -81,6 +81,45 @@ exports.theme = {
         }
 	},
 	
+	shows: {
+		"backgroundColor": "#000000",
+        "rowBackgroundColor": "#000000",
+        "selectedRowBackgroundColor": "#000000",
+        "separatorColor": "#000000",
+        "contentBackgroundColor": "#000000",
+        "titleColor": "#FFFFFF",
+        "titleBackgroundColor": "#000000",
+        "titleOpacity": 1,
+        "refreshColor": "#FFFFFF",
+        "searchTextColor": "#000000",
+        "searchBackgroundColor": "#FFFFFF",
+        "banner": {
+        	"shadowColor": "#000000",
+        	"shadowRadius": 0.5
+        },
+        "infos": {
+        	"shadowColor": "#000000",
+        	"shadowRadius": 0.5
+        }
+	},
+	
+	season: {
+		"backgroundColor": "#000000",
+        "rowBackgroundColor": "#000000",
+        "selectedRowBackgroundColor": "#000000",
+        "separatorColor": "#666666",
+        "titleColor": "#FFFFFF",
+        "titleBackgroundColor": "#000000",
+        "infoColor": "#FFFFFF",
+        "infoBackgroundColor": "#000000",
+        "dateColor": "#FFFFFF",
+        "dateBackgroundColor": "#000000",
+        "banner": {
+        	"shadowColor": "#666666",
+        	"shadowRadius": 0.5
+        }
+	},
+	
 	torrents: {
 		"backgroundColor": "transparent",
         "rowBackgroundColor": "transparent",
