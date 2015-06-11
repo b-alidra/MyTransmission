@@ -1,5 +1,7 @@
 <resources>
     <string name="appname">Mon Transmision</string>
+    <string name="date_format">LL</string>
+    <string name="time_date_format">LLL</string>
     <string name="welcome">Bienvenue</string>
     <string name="list_welcome">File vide</string>
     <string name="queue">Téléchargements</string>
@@ -53,6 +55,7 @@
     <string name="trending_movies">Films du moment</string>
     <string name="now_movies">Films du moment</string>
     <string name="upcoming_movies">À venir</string>
+    <string name="today_shows">Aujourd'hui</string>
     <string name="popular_shows">Séries populaires</string>
     <string name="trending_shows">Séries du moment</string>
     <string name="now_shows">Séries du moment</string>

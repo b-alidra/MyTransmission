@@ -1,5 +1,7 @@
 <resources>
     <string name="appname">MyTransmision</string>
+    <string name="date_format">MMMM Do YYYY</string>
+    <string name="time_date_format">LLL</string>
     <string name="welcome">Welcome</string>
     <string name="list_welcome">Empty queue</string>
     <string name="queue">Queue</string>
@@ -52,8 +54,9 @@
     <string name="your_search">Your search</string>
     <string name="popular_movies">Popular movies</string>
     <string name="trending_movies">Trending movies</string>
-    <string name="now_movies">Now playing</string>
     <string name="upcoming_movies">Upcoming</string>
+    <string name="upcoming_movies">Upcoming</string>
+    <string name="today_shows">Playing today</string>
     <string name="popular_shows">Popular shows</string>
     <string name="trending_shows">Trending shows</string>
     <string name="now_shows">On Air</string>
