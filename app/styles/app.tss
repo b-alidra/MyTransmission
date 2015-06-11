@@ -23,7 +23,8 @@
 ".hsep": {
 	top: "2dp",
 	bottom: "2dp",
-	width: "80%",
+	left: "10dp",
+	right: "10dp",
 	height: "1dp",
 	backgroundColor: "#555555"
 },
