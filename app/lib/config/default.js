@@ -12,7 +12,7 @@ exports.config = {
 			"icon" : "fa-ticket",
 			"target" : {
 				"widget" : "com.b-alidra.themoviedb",
-				"view" : "shows",
+				"view" : "show/shows",
 				"params" : {}
 			}
 		}, {
