@@ -54,6 +54,7 @@
     <string name="your_search">Your search</string>
     <string name="popular_movies">Popular movies</string>
     <string name="trending_movies">Trending movies</string>
+    <string name="now_movies">On Air</string>
     <string name="upcoming_movies">Upcoming</string>
     <string name="upcoming_movies">Upcoming</string>
     <string name="today_shows">Playing today</string>
@@ -74,4 +75,5 @@
     <string name="episode">Episode</string>
     <string name="episodes">Episodes</string>
     <string name="since">Since</string>
+    <string name="bio">Biography</string>
 </resources>
