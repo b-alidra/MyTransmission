@@ -22,6 +22,7 @@
     <string name="settings_t411">T411</string>
     <string name="connexions_description">Your torrent client parameters</string>
     <string name="t411_description">Your T411 account informations</string>
+    <string name="t411_register">>> Create a T411 account <<</string>
     <string name="list_loading">Loading ...</string>
     <string name="list_done">Done</string>
     <string name="list_downloading">Downloading</string>

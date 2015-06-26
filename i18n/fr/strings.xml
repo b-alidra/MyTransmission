@@ -21,6 +21,7 @@
     <string name="settings_t411">T411</string>
     <string name="connexions_description">Paramètres de votre logiciel de téléchargement</string>
     <string name="t411_description">Informations de votre compte T411</string>
+    <string name="t411_register">>> Créer un compte T411 <<</string>
     <string name="cant_connect">!! Connexion impossible !!</string>
     <string name="list_loading">Chargement en cours ...</string>
     <string name="list_done">Terminés</string>
