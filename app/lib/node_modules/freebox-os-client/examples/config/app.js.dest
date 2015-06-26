@@ -1,0 +1,8 @@
+module.exports = {
+    app_id: 'fr.freebox.clientapp',
+    app_name: 'Client App',
+    app_version: '0.0.7',
+    device_name: 'Pc de Xavier',
+    app_token: '',
+    track_id: ''
+};

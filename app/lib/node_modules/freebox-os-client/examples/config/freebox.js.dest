@@ -1,0 +1,4 @@
+module.exports = {
+    url: 'mafreebox.freebox.fr',
+    port: 80
+};
