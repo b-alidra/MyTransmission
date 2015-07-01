@@ -10,6 +10,7 @@
     <string name="search">Recherche</string>
     <string name="settings">Paramètres</string>
     <string name="settings_description">Paramètres de Transmission</string>
+    <string name="add_connection">Ajouter une connexion</string>
     <string name="settings_name">Connexion</string>
     <string name="settings_host">Hôte</string>
     <string name="settings_port">Port</string>
@@ -34,6 +35,10 @@
     <string name="freebox_authorizing">Demande d'autorisation en cours ...</string>
     <string name="freebox_go_accept_on_box">Veuillez accepter la demande d'autorisation affichée à l'écran de votre Freebox</string>
     <string name="connexions_description">Paramètres de votre logiciel de téléchargement</string>
+    <string name="no_freebox_connections">Vous n'êtes connecté à aucune Freebox</string>
+    <string name="use_discover_button">Utilisez le bouton "Rechercher ma Freebox"</string>
+    <string name="no_transmission_connections">Vous n'êtes connecté à aucun serveur Transmission</string>
+    <string name="use_add_button">Utilisez le bouton "Ajouter une connexion"</string>
     <string name="t411_description">Informations de votre compte T411</string>
     <string name="t411_register">>> Créer un compte T411 <<</string>
     <string name="cant_connect">!! Connexion impossible !!</string>

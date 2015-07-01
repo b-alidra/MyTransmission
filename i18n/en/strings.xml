@@ -10,6 +10,7 @@
     <string name="search">Search</string>
     <string name="settings">Settings</string>
     <string name="settings_description">Transmission settings</string>
+    <string name="add_connection">Add a connection</string>
     <string name="settings_name">Connection</string>
     <string name="settings_host">Host</string>
     <string name="settings_port">Port</string>
@@ -35,6 +36,10 @@
     <string name="freebox_go_accept_on_box">Please accept the authorization request shown on your Freebox</string>
     <string name="settings_t411">T411</string>
     <string name="connexions_description">Your torrent client parameters</string>
+    <string name="no_freebox_connections">You are not connected to any Freebox</string>
+    <string name="use_discover_button">Use the "Discover my Freebox" button</string>
+    <string name="no_transmission_connections">You have no Transmission server</string>
+    <string name="use_add_button">Use the "Add a connection" button</string>
     <string name="t411_description">Your T411 account informations</string>
     <string name="t411_register">>> Create a T411 account <<</string>
     <string name="list_loading">Loading ...</string>
