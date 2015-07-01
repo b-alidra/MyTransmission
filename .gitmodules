@@ -31,9 +31,9 @@
 [submodule "app/widgets/nl.fokkezb.infiniteScroll"]
 	path = app/widgets/nl.fokkezb.infiniteScroll
 	url = https://github.com/FokkeZB/nl.fokkezb.infiniteScroll.git
-[submodule "app/lib/titanium-freebox-os-client"]
-	path = app/lib/titanium-freebox-os-client/
-	url = https://github.com/b-alidra/titanium-freebox-os-client.git
 [submodule "app/lib/titanium-transmission-api"]
 	path = app/lib/titanium-transmission-api
 	url = https://github.com/b-alidra/titanium-transmission-api.git
+[submodule "app/lib/titanium-freebox-os-client"]
+	path = app/lib/titanium-freebox-os-client
+	url = https://github.com/b-alidra/titanium-freebox-os-client.git
