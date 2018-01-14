@@ -1,4 +1,4 @@
 MyTransmission
 =================================
 
-![Avatar Torrents](http://apps.b-alidra.com/MyTransmission.png "MyTransmission")
+![Avatar Torrents](http://b-alidra.com/MyTransmission.png "MyTransmission")
